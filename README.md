@@ -11,4 +11,4 @@ STM32 Lib TM1638 LED and KEY
 ![](https://github.com/GolinskiyKonstantin/STM32_Lib_TM1638_LED_and_KEY/blob/main/TM1638.jpeg)
 ![](https://github.com/GolinskiyKonstantin/STM32_Lib_TM1638_LED_and_KEY/blob/main/TM1638_LED_and_KEY.png)
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
